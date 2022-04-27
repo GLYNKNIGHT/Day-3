@@ -1,2 +1,5 @@
-let myFavNumber = 5;
-if (myFavNumber === 5) { console.log("My favourite number is 5 too!");}
+let myName = prompt ("What is your name?")
+
+if ( myName === "Glyn" ) {console.log("My name is Glyn too" );}
+else {
+    console.log( myName + " That's a silly name!");}
